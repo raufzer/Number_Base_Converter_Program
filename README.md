@@ -1,13 +1,33 @@
-# Number-Base-Converter-Program
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-    <h1>ESTIN 1CP term 1 MINI PROJECT</h1>
-    <p>A mini project in C to convert a number from one base to another is a good project for introducing students to the basics of working with coding and problem-solving. The program should take two inputs - an input value (in a particular numerical base) and the desired output base. It should then output the converted result. The program should have provisions for different bases, including decimal (base 10), octal (base 8), hexadecimal (base 16) and binary (base 2). Input validation must be included in the program, as well as checking if the output value exceeds the range of values possible in its destination base.</p>
-</body>
-</html>
+# Number Base Converter
+This is a mini-project in C that allows you to convert a number from one base to another. The program supports conversion between bases 2 to 36, and can be run on any machine that has a C compiler installed.
+
+# Getting Started
+To get started with this project, follow these steps:
+
+Clone this repository to your local machine.
+
+Open the project folder in your preferred code editor.
+
+Compile the converter.c file using a C compiler of your choice. For example, if you are using GCC on a Linux machine, you can run the following command in your terminal:
+
+Copy code
+gcc -o converter converter.c
+Run the converter executable by typing the following command in your terminal:
+
+bash
+Copy code
+./converter
+This will start the program and display a menu with options for converting a number from one base to another.
+
+# Usage
+To use this program, follow these steps:
+
+Choose the base of the number you want to convert by selecting one of the options in the menu.
+Enter the number you want to convert.
+Choose the base you want to convert the number to.
+The program will display the converted number.
+# Contributing
+If you would like to contribute to this project, feel free to open a pull request. Before doing so, please make sure that your code adheres to the C language standards and follows good programming practices.
+
+# License
+This project is licensed under the MIT License - see the LICENSE file for details.
