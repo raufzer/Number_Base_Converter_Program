@@ -13,3 +13,6 @@ If you would like to contribute to this project, feel free to open a pull reques
 
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgments
+This project was created as part of a course in the higher school. We would like to thank our instructor for their guidance and support throughout the project.
